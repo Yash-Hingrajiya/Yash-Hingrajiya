@@ -21,7 +21,7 @@
   <a href="https://stackoverflow.com/users/30179852/yash-hingrajiya" target="blank">
     <img alt="yash-patel" height="25" src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/kishanp_ghetiya" target="blank">
+  <a href="https://www.hackerrank.com/profile/yashhingrajiya21" target="blank">
     <img alt="yash_hingrajiya" height="25" src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/>
   </a>
   <a href="mailto:yashhingrajiya2001@gmail.com" target="_blank">
